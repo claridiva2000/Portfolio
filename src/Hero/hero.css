@@ -1,0 +1,87 @@
+/* app */
+
+
+/* hero */
+
+.hero-container{
+  background-color: #24303A;
+  display: flex;
+  flex-direction: row;
+  height: 420px;
+  border-bottom:#FAB168 10px solid ;
+}
+
+/* hero imgs */
+.hero-images{
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+margin: auto;
+justify-content: space-evenly;
+width: 80%;  
+}
+
+.hero-images img{
+  width: 250px;
+  border-radius: 8px;
+
+}
+
+a{
+  color: inherit;
+}
+
+li{
+  font-size: 19px;
+  font-weight: 400;
+}
+
+/* nav */
+.nav-container{
+display: flex;
+flex-direction: column;
+width: 71%;
+}
+
+.nav-links{
+color: #FFFFFF;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+width: 100%;
+list-style: none;
+}
+
+/* .mywork{
+  color: #FFFFFF;
+  background-color: #947FA9 ;
+  border-radius: 8px;
+  width: 200px;
+  padding: 20px;
+  font-weight: bold;
+  font-size: large;
+  margin: auto;
+} */
+
+/* intro */
+.intro-container{
+  width: 348px;
+  color: #FFFFFF;
+  background-image: url('../assetts/Capture.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: 1px;
+}
+
+
+
+.socials{
+  color: #947FA9;
+  font-size: 50px;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto;
+
+}
