@@ -67,7 +67,7 @@ list-style: none;
 .intro-container{
   width: 348px;
   color: #FFFFFF;
-  background-image: url('../assetts/Capture.JPG');
+  /* background-image: url('../../public/assetts/Capture.JPG'); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: 1px;

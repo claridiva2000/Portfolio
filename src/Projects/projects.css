@@ -30,60 +30,60 @@ h3{
 }
 
 .project1{
-  background-image: url('../assetts/photoeffectstitle.JPG');
+  /* background-image: url('../../public/assetts/photoeffectstitle.JPG'); */
   background-repeat: no-repeat;
   background-size: cover;
   
 }
 .project1:hover{
-  background-image: url('../assetts/photoeffects.gif');
+  /* background-image: url('../../public/assetts/photoeffects.gif'); */
   background-repeat: no-repeat;
   background-size: cover;
   
 }
 
 .project2{
-  background-image: url('../assetts/sandjtitle.JPG');
+  /* background-image: url('../../public/assetts/sandjtitle.JPG'); */
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .project2:hover{
-  background-image: url('../assetts/sandj.gif');
+  /* background-image: url('../../public/assetts/sandj.gif'); */
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .project3{
-  background-image: url('../assetts/pinkclosetstitle.JPG');
+  /* background-image: url('../../public/assetts/pinkclosetstitle.JPG'); */
   background-repeat: no-repeat;
   background-size: cover;
 }
 .project3:hover{
-  background-image: url('../assetts/pinkclosets.gif');
+  /* background-image: url('../../public/assetts/pinkclosets.gif'); */
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .project4{
-  background-image: url('../assetts/uwctitle.JPG');
+  /* background-image: url('../../public/assetts/uwctitle.JPG'); */
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .project4:hover{
-  background-image: url('../assetts/uwctool.gif');
+  /* background-image: url('../../public/assetts/uwctool.gif'); */
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .project5{
-  background-image: url('../assetts/lquesttitle.gif');
+  /* background-image: url('../../public/assetts/lquesttitle.gif'); */
   background-repeat: no-repeat;
   background-size: cover;
 }
 .project5:hover{
-  background-image: url('../assetts/lambdaquest.gif');
+  /* background-image: url('../../public/assetts/lambdaquest.gif'); */
   background-repeat: no-repeat;
   background-size: cover;
 }

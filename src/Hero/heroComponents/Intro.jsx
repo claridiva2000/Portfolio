@@ -1,8 +1,8 @@
 import React from "react";
 //components
-import IntroText from "../heroComponents/IntroText";
+// import IntroText from "../heroComponents/IntroText";
 //imgs
-import intro from '../../assetts/Capture.JPG'
+// import intro from '../../../public/assetts/Capture.JPG'
 
 const Intro = () => {
   return (
