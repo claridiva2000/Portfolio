@@ -27,6 +27,7 @@ class ProjectProvider extends Component {
       return { projects: tempProjects };
     });
   };
+  
 
   getItem = id => {
     const projects = this.state.projects.find(item => item.id === id);
